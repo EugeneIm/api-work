@@ -13,4 +13,5 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
+//AUTH TOKEN FOR GITHUB: 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
 export class AppModule { }
